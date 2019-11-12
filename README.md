@@ -1,7 +1,7 @@
 # MyThirdScript-cs-LMarko
 # Project Description:
 
-The aim of this project is twofold.
+### The aim of this project is twofold.
 
 First, it serves practicing the git/GitHub workflow, including writing a meaningful REAMDE.
 Second, this is the first time using a debug message with concatinations of strings and variables.
